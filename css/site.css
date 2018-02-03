@@ -1,0 +1,8 @@
+body 		{ margin: 0; padding: 0; font-family: Arial; }
+fieldset 	{ background-color: #b0c4de; position:fixed; left:0px; bottom:0px; height:20px; width:100%; }
+textarea 	{ background-color: #f0f0f0; position:fixed; left:2px; bottom:0px; height:350px; width:100%;font-size: 10pt; font-family: Courier; border: 1px solid #000;}
+p 			{ font-family: Courier; font-size:14; margin:0; padding:0;}
+input 		{ background: #ddd; border: 1px solid #000; width:150; padding:4; }
+.box 		{ float: left; margin: 1em; }
+.after-box 	{ clear: left; }
+#canvas 	{ display: none; }
