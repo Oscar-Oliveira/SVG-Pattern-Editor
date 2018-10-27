@@ -1,3 +1,3 @@
-# SVG Pattern Editor
+# 2D Cutting and Packing Pattern - SVG Editor
 
-Simple SVG editor to create and export 2D pattern.
+SVG editor to create and export 2D cutting and packing patterns.
